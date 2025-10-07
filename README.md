@@ -14,6 +14,7 @@ File/Folder                       | Description
 ----------------------------------|-------------------------------
 simplewled8266/                   | KiCad project for the PCB
 SimpleWLED8266_Case_Bottom.stl    | 3D-printable case (bottom)
+SimpleWLED8266_Case_Bottom_ScrewMount.stl    | 3D-printable case (bottom, with screw mounts)
 SimpleWLED8266_Case_Top.stl       | 3D-printable case (top)
 SimpleWLED8266_Label.pdf          | Label for the 3D-printed case
 
